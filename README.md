@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Sagnik Mukherjee
+**A passionate Electronics and Communication Engineer || 
 
+Email Me 👉 ✉️ **sagnikmukherjee660@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Breast Cancer Predction using Machine Learning
+- 🌱 **I’m currently learning:** Machine Learning using Python
+- 👯 **I’m looking to collaborate on:** 
+- 🤔 **I’m looking for help with:** 
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** sagnikmukherjee660@gmail.com
+- 😄 **Pronouns:** Sagnik Sir
+- ⚡ **Fun fact:**  I love turning ideas into working prototypes
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sagnik-mukherjee07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@TechNikSMTN) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagnikmukherjee660@gmail.com) 
 
