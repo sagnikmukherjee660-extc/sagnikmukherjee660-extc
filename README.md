@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Sagnik Mukherjee
+💫 Hi 👋, I'm Sagnik Mukherjee
 **A passionate Electronics and Communication Engineer || 
 
 Email Me 👉 ✉️ **sagnikmukherjee660@gmail.com** For Collaboration/Project or Anything Else. 😊😊
